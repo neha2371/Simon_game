@@ -11,3 +11,4 @@ The device has four colored buttons, each producing a particular tone when it is
 
 Simon is named after the simple children's game of Simon Says, but the gameplay is based on Atari's unpopular Touch Me arcade game from 1974. Simon differs from Touch Me in that the Touch Me buttons were all of the same color (black) and the sounds it produced were harsh and grating.
 
+#### Yay! This is my first WebDev project.
