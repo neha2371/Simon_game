@@ -13,4 +13,4 @@ Simon is named after the simple children's game of Simon Says, but the gameplay 
 
 #### Yay! This is my first WebDev project.
 
-Made with love by Neha
+Made with love by Neha Gupta
